@@ -1,6 +1,6 @@
 # A Dashboard to Perform ML Regression and Classifications using LazyPredict
 
-![alt text](https://github.com/sercangul/LazyML/blob/main/Lazy_ML.png "Logo Title Text 1")
+![alt text](https://github.com/sercangul/LazyML/blob/main/Lazy_ML.PNG "Logo Title Text 1")
 
 ## Installation
 
