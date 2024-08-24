@@ -1,4 +1,25 @@
-lazypredict==0.2.9
-pandas==1.0.5
-streamlit==0.81.1
-scikit_learn==0.24.2
+# Core dependencies
+streamlit==1.22.0
+pandas==1.5.3
+numpy==1.24.3
+scikit-learn==1.2.2
+
+# LazyPredict for automated machine learning
+lazypredict==0.2.12
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Excel file handling
+openpyxl==3.1.2
+XlsxWriter==3.1.0
+
+# Other utilities
+joblib==1.2.0
+python-dotenv==1.0.0
+
+# Development tools (optional, remove if not needed)
+black==23.3.0
+flake8==6.0.0
+pytest==7.3.1
